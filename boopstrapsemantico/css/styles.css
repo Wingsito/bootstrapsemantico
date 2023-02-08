@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(../images/Ron.webp);
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color:  rgb(15, 127, 147);
+}
+
+nav{
+    background-color:  rgb(3, 97, 113);
+}
+
+section{
+    background-color:  rgb(16, 161, 187);
+}
+
+article{
+    background-image: url(../images/feo.jpg);
+}
+
+aside{
+    background-color:  rgb(14, 173, 201);
+}
+
+footer{
+background-color:  rgb(3, 97, 113);
+}
+
+.altura1{
+    height: 10vh;
+}
+
+.altura2{
+    height: 10vh;
+}
+
+.altura3{
+    height: 70vh;
+}
+
+.altura4{
+    height: 10vh;
+}
+
+.altura5{
+    height: 60vh;
+}
